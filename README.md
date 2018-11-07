@@ -1,3 +1,3 @@
 # Hello-world
-Just another repoository
+Just another repository
 Hey, I'm Lohith!
